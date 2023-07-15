@@ -52,7 +52,7 @@ setup(
     version=__version__,
     author='Divio AG',
     author_email='info@divio.ch',
-    url='https://github.com/divio/djangocms-translations',
+    url='https://github.com/bakertilly46/djangocms-translations',
     license='BSD',
     description='Send django CMS content for translation to 3rd party providers.',
     long_description=open('README.rst').read(),
